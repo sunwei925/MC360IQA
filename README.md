@@ -1,5 +1,5 @@
 # MC360IQA
-A Multi-channel CNN for Blind 360-Degree Image Quality Assessment
+MC360IQA: A Multi-channel CNN for Blind 360-degree Image Quality Assessment
 
 ## Usage
 If you want to train the code on your database (e.g.  [CVIQ database](https://github.com/sunwei925/CVIQDatabase) ):
